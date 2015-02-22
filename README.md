@@ -1,8 +1,7 @@
 truepress
 =========
 
-#1 @ Google App Engine Hackathon @ EuroPython
-=========
+\#1! Google App Engine Hackathon @ EuroPython
 
 A basic RSS application that claim users to setup theirs own newspaper pages. On pages users can design news-boxes and each box can fetch RSS.
 
